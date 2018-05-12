@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6787'
     url: http://www.gutenberg.org/2009/agents/6787
 description: '"A sequel to The Colonel''s Daughter."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20305#Marion-s-Faith.
 gutenberg_issued: '2007-01-07'
 gutenberg_type: Text
 identifiers:
