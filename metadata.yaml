@@ -1,0 +1,30 @@
+_repo: Marion-s-Faith._20305
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: King, Charles
+    birthdate: 1844
+    deathdate: 1933
+    gutenberg_agent_id: '6787'
+    url: http://www.gutenberg.org/2009/agents/6787
+description: '"A sequel to The Colonel''s Daughter."'
+gutenberg_issued: '2007-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20305'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soldiers -- West (U.S.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Fiction'
+- !lcsh 'West (U.S.) -- Social life and customs -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'United States. Army -- Military life -- Fiction'
+title: Marion's Faith.
+url: http://www.gutenberg.org/ebooks/20305
